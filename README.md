@@ -36,12 +36,12 @@ Identified and analyzed factors causing delays in delivery using Spark SQL.
 ### 3. Clustering Result Visualization
 
 <img src="images/Custumer_Segmentation.png" alt="Clustering" width="800"/>
- - This clustering is done on basis of total sales a customer had done.
- - Aim : to Segrigate custumers on basis
- - Vip Spenders 🔴
- - High Spenders 🔵
- - Medium Spenders 🟢
- - Low / Churned Custumers 🟡
+ - This clustering is done on basis of total sales a customer had done. </br>
+ - Aim : to Segrigate custumers on basis</br>
+ - Vip Spenders 🔴 </br>
+ - High Spenders 🔵 </br>
+ - Medium Spenders 🟢 </br>
+ - Low / Churned Custumers 🟡 </br>
 
 <img src="images/Review_based_segmentation.png" alt="Clustering" width="800"/>
  - This clustering is done on basis of reviews.
