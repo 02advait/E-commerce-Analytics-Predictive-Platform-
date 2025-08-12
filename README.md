@@ -35,7 +35,7 @@ Identified and analyzed factors causing delays in delivery using Spark SQL.
 ![Clustering](images/Seller_Segmentation.png)
 
 ### 4. Sales Forecast Plot
-![Sales Forecast](images/sales_forecast.png) 
+![Sales Forecast](images/forecast.png) 
 
 ---
 
