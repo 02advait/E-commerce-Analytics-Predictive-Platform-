@@ -18,8 +18,7 @@ Grouped customers, sellers, and products based on behavior and characteristics f
 Identified and analyzed factors causing delays in delivery using Spark SQL.
 
 ## Preview
-[![Project Demo](images/gif.gif)](images/proj_video.mp4)
-
+![Project Demo](images/gif.gif)
 ---
 
 ##  Snapshots
