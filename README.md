@@ -74,8 +74,8 @@ Source: [Kaggle - Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazili
 ---
 
 ##  Contact
-📧 udhavkardile7502@gmail.com  
-🔗 https://www.linkedin.com/in/udhavk2309/
+📧 02advait@gmail.com  
+🔗 https://www.linkedin.com/in/02advait
 
 ---
 
