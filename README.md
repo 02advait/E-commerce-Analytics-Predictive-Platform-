@@ -27,7 +27,7 @@ Identified and analyzed factors causing delays in delivery using Spark SQL.
 ![Power BI Dashboard](images/dashboard.png)
 
 ### 2. Sentiment Analysis Web App (Flask UI)
-![Sentiment Flask UI](images/sentiment.png)
+![Sentiment Flask UI](images/sentiment.png) 
 
 ### 3. Clustering Result Visualization
 ![Clustering](images/Custumer_Segmentation.png)
