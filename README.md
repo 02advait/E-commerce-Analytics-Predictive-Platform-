@@ -67,7 +67,7 @@ Source: [Kaggle - Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazili
 - Team 007 members
 - Guide: Sumit Patil
 - Mentor: Prashant Bhosale sir
-![Contribution](images/team.png)
+![Contribution](images/Team_photo.png)
 
 ---
 
