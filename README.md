@@ -44,20 +44,20 @@ Identified and analyzed factors causing delays in delivery using Spark SQL.
  - Low / Churned Custumers 🟡 </br>
 
 <img src="images/Review_based_segmentation.png" alt="Clustering" width="800"/>
- - This clustering is done on basis of reviews.
- - Aim : to Segrigate custumers on basis
- - Happy 🔵
- - Mixed 🟠
- - Unhappy 🟢
+ - This clustering is done on basis of reviews. </br>
+ - Aim : to Segrigate custumers on basis </br>
+ - Happy 🔵 </br>
+ - Mixed 🟠 </br>
+ - Unhappy 🟢 </br>
 
 
 <img src="images/Seller_Segmentation.png" alt="Clustering" width="800"/>
- - This clustering is done on basis of seller had selled its product.
- - Aim : to Segrigate custumers on basis
- - Top Performer 🟢
- - Mid Performer 🔴
- - Regular Performer 🟠
- - Dormant Performer 🔵
+ - This clustering is done on basis of seller had selled its product. </br>
+ - Aim : to Segrigate custumers on basis </br>
+ - Top Performer 🟢 </br>
+ - Mid Performer 🔴 </br>
+ - Regular Performer 🟠 </br>
+ - Dormant Performer 🔵 </br>
  
 
 
