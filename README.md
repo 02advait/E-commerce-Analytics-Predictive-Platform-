@@ -33,7 +33,7 @@ Identified and analyzed factors causing delays in delivery using Spark SQL.
 ### 2. Sentiment Analysis Web App (Flask UI)
 ![Sentiment Flask UI](images/sentiment.png) 
 
-### 3. Clustering Result Visualization
+### 3. Clustering Result Visualization </br> </br>
 
 <img src="images/Custumer_Segmentation.png" alt="Clustering" width="800"/>
  - This clustering is done on basis of total sales a customer had done. </br>
@@ -41,14 +41,14 @@ Identified and analyzed factors causing delays in delivery using Spark SQL.
  - Vip Spenders 🔴 </br>
  - High Spenders 🔵 </br>
  - Medium Spenders 🟢 </br>
- - Low / Churned Custumers 🟡 </br>
+ - Low / Churned Custumers 🟡 </br> </br> </br>
 
 <img src="images/Review_based_segmentation.png" alt="Clustering" width="800"/>
  - This clustering is done on basis of reviews. </br>
  - Aim : to Segrigate custumers on basis </br>
  - Happy 🔵 </br>
  - Mixed 🟠 </br>
- - Unhappy 🟢 </br>
+ - Unhappy 🟢 </br> </br> </br>
 
 
 <img src="images/Seller_Segmentation.png" alt="Clustering" width="800"/>
@@ -57,7 +57,7 @@ Identified and analyzed factors causing delays in delivery using Spark SQL.
  - Top Performer 🟢 </br>
  - Mid Performer 🔴 </br>
  - Regular Performer 🟠 </br>
- - Dormant Performer 🔵 </br>
+ - Dormant Performer 🔵 </br> </br> </br>
  
 
 
