@@ -30,7 +30,9 @@ Identified and analyzed factors causing delays in delivery using Spark SQL.
 ![Sentiment Flask UI](images/sentiment.png)
 
 ### 3. Clustering Result Visualization
-![Clustering](images/clustering_visual.png)
+![Clustering](images/Custumer_Segmentation.png)
+![Clustering](images/Review_based_segmentation.png)
+![Clustering](images/Seller_Segmentation.png)
 
 ### 4. Sales Forecast Plot
 ![Sales Forecast](images/sales_forecast.png)
