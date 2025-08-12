@@ -34,9 +34,31 @@ Identified and analyzed factors causing delays in delivery using Spark SQL.
 ![Sentiment Flask UI](images/sentiment.png) 
 
 ### 3. Clustering Result Visualization
+
 <img src="images/Custumer_Segmentation.png" alt="Clustering" width="800"/>
-<img src="images/Review_based_segmentation.png" alt="Clustering" width="400"/>
-<img src="images/Seller_Segmentation.png" alt="Clustering" width="400"/>
+ - This clustering is done on basis of total sales a customer had done.
+ - Aim : to Segrigate custumers on basis
+ - Vip Spenders 🔴
+ - High Spenders 🔵
+ - Medium Spenders 🟢
+ - Low / Churned Custumers 🟡
+
+<img src="images/Review_based_segmentation.png" alt="Clustering" width="800"/>
+ - This clustering is done on basis of reviews.
+ - Aim : to Segrigate custumers on basis
+ - Happy 🔵
+ - Mixed 🟠
+ - Unhappy 🟢
+
+
+<img src="images/Seller_Segmentation.png" alt="Clustering" width="800"/>
+ - This clustering is done on basis of seller had selled its product.
+ - Aim : to Segrigate custumers on basis
+ - Top Performer 🟢
+ - Mid Performer 🔴
+ - Regular Performer 🟠
+ - Dormant Performer 🔵
+ 
 
 
 ### 4. Sales Forecast Plot
